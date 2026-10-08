@@ -17,6 +17,7 @@ function parseAndDeleteExternalLinks(html) {
     .replaceAll("https://latitude-cartagene.com", "")
     .replaceAll("https://www.openstreetmap.org/copyright", "")
     .replaceAll("https://leafletjs.com", "")
+    .replaceAll("https://instant-system.com", "")
     
     
 }
